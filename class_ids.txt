@@ -1,0 +1,13 @@
+0 - Not a swing
+1 - Full Swing / Left handed / Dominant
+2 - Full Swing / Right handed / Dominant
+3 - Full Swing / Left handed / Offhand
+4 - Full Swing / Right handed / Offhand
+
+# Vai
+
+0 - Not a swing
+5 - Putting / Left handed / Dominant
+6 - Putting / Right handed / Dominant
+7 - Putting / Left handed / Offhand
+8 - Putting / Right handed / Offhand
